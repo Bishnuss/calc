@@ -1,0 +1,23 @@
+/* <input type="text" class="form-fluid mb-3" id="screen"><br> */ 
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2:hover{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#box{
+    background-color: rgb(227, 213, 147);
+}
+#a1:hover{
+    border: inset white;
+    background-color: rgb(8, 118, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+}
+#a2:hover{
+    background-color: rgb(145, 7, 7);
+    color: white;
+    border: 2px outset white;
+}
