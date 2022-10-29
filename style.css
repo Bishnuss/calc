@@ -9,8 +9,9 @@ h2:hover{
     background-color: rgb(227, 213, 147);
 }
 #a1:hover{
+    color: black;
     border: inset white;
-    background-color: rgb(8, 118, 86);
+    background-color: rgb(96, 215, 182);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 
